@@ -55,6 +55,11 @@ Hay implementaciones en Go, dotNet, Python, Node y Rust.
 
 * Si queremos acelerar nuestras pruebas de integración, podemos declarar contenedores como campos estáticos para compartir entre pruebas. En nuestro caso, nuestra prueba se ejecutó en un promedio de 150 ms.
 
+# Conclusiones
+
+* Brinda el beneficio de una compatibilidad de base de datos del 100% (ya que ejecuta una base de datos real dentro de un contenedor).
+* La base de datos siempre se inicia en un estado conocido, sin contaminación entre ejecuciones de prueba.
+
 # Más información
 
 * https://testcontainers.org

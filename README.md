@@ -1,5 +1,7 @@
 ## Introducción a Testcontainers
 
+![](img/logo.png)
+
 # Testing
 
 Una de las tareas clave en el desarrollo de software es el testing.
@@ -62,8 +64,8 @@ Hay implementaciones en Go, dotNet, Python, Node y Rust.
 
 # Más información
 
-* https://testcontainers.org
-* @testcontainers
+* [https://testcontainers.org](https://testcontainers.org)
+* [@testcontainers](https://twitter.com/testcontainers)
 
 # Juan Moreno
 

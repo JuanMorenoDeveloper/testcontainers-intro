@@ -64,4 +64,5 @@ Hay implementaciones en Go, dotNet, Python, Node y Rust.
 
 * Blog: https://proitcsolution.com.ve
 * Twitter: [@JuanMorenoDev](https://twitter.com/JuanMorenoDev)
-* Presentation link: 
+* Presentation link: https://bit.ly/testcontainers-intro 
+* Repositorio: https://github.com/JuanMorenoDeveloper/testcontainers-samples
